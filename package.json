@@ -1,0 +1,24 @@
+{
+  "name": "Chat_room",
+  "version": "0.0.1",
+  "description": "Manejo de Sistemas de Chat's múltiples",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "~0.9.13",
+    "mongodb": "~1.3.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "keywords": [
+    "Node.js",
+    "Socekt",
+    "io",
+    "MongoDB"
+  ],
+  "author": "Jorge Rubiano",
+  "license": "MIT"
+}
